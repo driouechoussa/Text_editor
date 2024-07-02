@@ -7,25 +7,22 @@ A simple text editor app built using Python and Tkinter.
 - Supports multiple file formats (txt, rtf, etc.)
 - Syntax highlighting for popular programming languages (coming soon!)
 ## Getting Started
-- Clone the repository: git clone [https://github.com/your-username/text-editor-app.git](https://github.com/driouechoussa/Text_editor/tree/master)
+- Clone the repository: git clone [click here](https://github.com/driouechoussa/Text_editor/tree/master)
 - Install the required dependencies: pip install -r requirements.txt
 - Run the app: python main.py
 ## Usage
-- Create a new file: File > New or press Ctrl+N
-- Open an existing file: File > Open or press Ctrl+O
-- Save a file: File > Save or press Ctrl+S
-- Cut, copy, and paste text using the Edit menu or keyboard shortcuts
-- Undo and redo changes using the Edit menu or keyboard shortcuts
+- Open an existing file by clicking the button 'Open File'
+- Save a file by clicking the button 'Save File'
+- Cut, copy, and paste text using ```crtl+c``` , ```crtl+x``` , ```crtl+v```
+- Undo and redo changes using ```crtl+z``` , ```crtl+y```
 Customization
-- Customize the app's appearance by modifying the config.json file
+- Customize the app's appearance by changing Light/Dark mode
 
-
-## License
-This app is licensed under the MIT License. See LICENSE for details.
 
 Acknowledgments
 Tkinter for providing the GUI framework
 Python for being an awesome programming language
+
 Author
 Oussama Driouech
 
