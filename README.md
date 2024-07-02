@@ -7,7 +7,7 @@ A simple text editor app built using Python and Tkinter.
 - Supports multiple file formats (txt, rtf, etc.)
 - Syntax highlighting for popular programming languages (coming soon!)
 ## Getting Started
-- Clone the repository: git clone https://github.com/your-username/text-editor-app.git
+- Clone the repository: git clone [https://github.com/your-username/text-editor-app.git](https://github.com/driouechoussa/Text_editor/tree/master)
 - Install the required dependencies: pip install -r requirements.txt
 - Run the app: python main.py
 ## Usage
